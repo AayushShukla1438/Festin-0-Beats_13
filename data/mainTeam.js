@@ -21,7 +21,7 @@ export const mainTeam = [
     
     {
         name: "Anshul Shekhar",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHRc4iHDC2aXw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710574228542?e=1731542400&v=beta&t=gif4Vm_hh2_eBCZvYgR_VAeDnVU_1IfGQCDDqOYKGos",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQHC-LIQKn7t9g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727105118932?e=1732752000&v=beta&t=JRROSOn9FeUlvgsnhlBoQhnDO3aAmCv2I6-9J1S16kE",
         linkedin: "https://www.linkedin.com/in/anshul-shekhar-8a2921221/",
     },
 

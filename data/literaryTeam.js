@@ -5,9 +5,9 @@ export const literaryTeam = [
         linkedin: "https://www.linkedin.com/in/gunabh-sharan-a65380257/",
     },
     {
-        name: "Shreya Sharma",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHytSXpWYq6_Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726141769758?e=1731542400&v=beta&t=Xhn7g-7KgbIUTAsdsBe94mMW-31qvrKp2YirzJ90Oh0",
-        linkedin: "https://www.linkedin.com/in/shreya-sharma-542472295/",
+        name: "Vidhi Rawat",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQGoZNQ_sXF2iw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720027761237?e=1732752000&v=beta&t=f_u_HMj564AZMk5qTmC5J4CDXO2S79ooA0Hj6PIfphg",
+        linkedin: "https://www.linkedin.com/in/vidhi-rawat-8a795928b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
     
 
