@@ -5,7 +5,7 @@ export const PastEvents = [
         // description: "A fun event to Kickstart the Hacknovate 5.0 !",
         date: "Schedule out soon",
         link: "/culturalSchedule",
-        img: '/cultural.svg'
+        img: '/cultural.jpg'
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export const PastEvents = [
         // description: "Time to dominate the meme world with your creativity!",
         date: "Schedule out soon",
         link: '/techSchedule',
-        img: "/Technical.svg"
+        img: "/technical.jpg"
         
     },
     {
@@ -22,7 +22,7 @@ export const PastEvents = [
         // description: "Time to dominate the meme world with your creativity!",
         date: "Schedule out soon",
         link: '/literarySchedule',
-        img: "/literary.svg"
+        img: "/literary.jpg"
         
     },
     {
@@ -31,7 +31,7 @@ export const PastEvents = [
         // description: "Time to dominate the meme world with your creativity!",
         date: "Schedule out soon",
         link: '/fineArtsSchedule',
-        img: "/fine.svg"
+        img: "/fine.jpg"
         
     },
     

@@ -26,7 +26,7 @@ const Glimpse = () => {
         >
             <div className="w-full md:w-2/3 lg:w-3/4 mb-8 md:mb-0 md:pr-8">
                 <img
-                    src='/last.png'
+                    src='/lastn.png'
                     alt='Glimpse of Festin-O-Bests 12.0'
                     className="w-full h-auto object-cover rounded-lg shadow-lg"
                 />
